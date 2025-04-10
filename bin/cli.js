@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { generateExports } from './index';
+import { generateExports } from './generate';
 
 const targetDir = process.argv[2];
 
