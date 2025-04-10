@@ -1,6 +1,6 @@
 {
     "name": "@codewaveds/generate-exports",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "main": "dist/generate.js",
     "bin": {
         "generate-exports": "dist/cli.js"
