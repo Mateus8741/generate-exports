@@ -1,0 +1,26 @@
+{
+    "name": "@codewaveds/generate-exports",
+    "version": "1.0.5",
+    "main": "dist/index.js",
+    "bin": {
+        "generate-exports": "dist/cli.js"
+    },
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "exports",
+        "index",
+        "typescript",
+        "dev-tool"
+    ],
+    "license": "MIT",
+    "type": "commonjs",
+    "devDependencies": {
+        "@types/node": "^22.14.0",
+        "typescript": "^5.0.0"
+    }
+}
